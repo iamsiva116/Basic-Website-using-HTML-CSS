@@ -7,5 +7,5 @@ Download logo image and paste it in img folder.
 copy and paste index.html code in VS Code or NOTE PAD ++ and save it as index.html
 copy and paste style.css code in VS Code or NOTE PAD ++ and save it as style.css
 
-
+just some comments added trying to learn pull
 -----WILL POST SHOPPING WEBSITE WITH ADD TO CART OPTION AND FULLY FUNCTIONABLE----
